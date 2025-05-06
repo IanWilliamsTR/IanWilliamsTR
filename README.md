@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanWilliamsTR
 - 👀 I’m interested in legal NLP
-- 🌱 I’m currently learning how to implement the original Attention is All You Need paper
+- 🌱 I’m currently exploring RL
 
 
 <!---
